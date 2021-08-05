@@ -1,0 +1,7 @@
+
+test file created
+second line
+third line
+content added before stash branch creation
+content added after stash branch creation
+fourth line

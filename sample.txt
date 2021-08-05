@@ -4,3 +4,4 @@ Sample text to view git opertations
 4th line added
 5ht line added
 6th line added
+7th line added

@@ -1,0 +1,3 @@
+steps for cherry picking
+if we want to implement some features from other branch without merge or rebase is called cherrypick
+
